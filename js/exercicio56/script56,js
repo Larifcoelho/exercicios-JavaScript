@@ -1,0 +1,4 @@
+const marcasDeCarro = [" Saab", " Volvo", " BMW"]
+marcasDeCarro[0]= "BYD"
+marcasDeCarro.push(" Toyota")
+document.getElementById("demo").innerHTML=marcasDeCarro

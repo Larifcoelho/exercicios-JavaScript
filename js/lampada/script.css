@@ -1,0 +1,15 @@
+button {
+    text-align: center;
+    height: auto;
+    border: 2px solid;
+    background-color: rgb(241, 225, 104);
+}
+
+img {
+    display: block;
+    width: 400px;
+    height: 400px;
+    border: 2px solid rgb(203, 194, 31);
+    background-color: rgb(241, 225, 104);
+    justify-content: center;
+}
